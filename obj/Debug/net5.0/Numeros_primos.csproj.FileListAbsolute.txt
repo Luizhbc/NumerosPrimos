@@ -1,0 +1,16 @@
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\bin\Debug\net5.0\Numeros_primos.exe
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\bin\Debug\net5.0\Numeros_primos.deps.json
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\bin\Debug\net5.0\Numeros_primos.runtimeconfig.json
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\bin\Debug\net5.0\Numeros_primos.runtimeconfig.dev.json
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\bin\Debug\net5.0\Numeros_primos.dll
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\bin\Debug\net5.0\ref\Numeros_primos.dll
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\bin\Debug\net5.0\Numeros_primos.pdb
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.csproj.AssemblyReference.cache
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.AssemblyInfoInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.AssemblyInfo.cs
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.csproj.CoreCompileInputs.cache
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.dll
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\ref\Numeros_primos.dll
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.pdb
+C:\Users\LuizH\Documents\C-SHARP\Numeros_primos\obj\Debug\net5.0\Numeros_primos.genruntimeconfig.cache
